@@ -1,4 +1,4 @@
 -js app.js
 -main App
--cp ../src
+-cp ../../src
 -debug

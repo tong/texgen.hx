@@ -154,7 +154,7 @@ class App {
 			///////////////////////////////////////////////////////////////
 
 			//TODO
-			
+
 			/*
 			var texture = new Texture( 256, 256 )
 				.add( new tg.LinearGradient().interpolation( 0 ).point( 0, [1,1,0,0] ).point( 0.25, [0.2,0,0.5,1]).point( 0.5, [0.5,0.2,0.5,1]).point( 1, [1,0,1,1]) )
